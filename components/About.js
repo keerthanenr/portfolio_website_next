@@ -13,10 +13,10 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a
-                            type specimen book.
+                        I’m Keerthanen Ravichandran (he/him). I am Software Engineer at JPM Chase. 
+                        I am currently looking for roles in SWE , Product Management or Venture Capital. I’ve spent majority of work career working in finance, notably within JPM, 
+                        I worked in Rates Marketdata, Equities Marketdata and currently Nexus Platform. 
+                        I am responsible for creating features used by a platform with over 40 billion AUM which provided leveraged finances to it’s clients through equity swaps. 
                         </p>
                     </div>
                 </div>
