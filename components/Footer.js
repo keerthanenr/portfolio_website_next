@@ -9,7 +9,7 @@ const Footer = () => {
                     <p>Built with Next.js, Tailwind and Vercel</p>
                     <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
                         <a
-                            href="#"
+                            href="https://twitter.com/keerthanenr"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -17,7 +17,7 @@ const Footer = () => {
                             Twitter
                         </a>
                         <a
-                            href="#"
+                            href="https://www.linkedin.com/in/keerthanen-ravichandran-b49780102/"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -25,7 +25,7 @@ const Footer = () => {
                             LinkedIn
                         </a>
                         <a
-                            href="#"
+                            href="https://github.com/keerthanenr"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -33,28 +33,12 @@ const Footer = () => {
                             GitHub
                         </a>
                         <a
-                            href="#"
+                            href="https://medium.com/@keerthanenravichandran"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
                             Medium
-                        </a>
-                        <a
-                            href="#"
-                            className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            DEV
-                        </a>
-                        <a
-                            href="#"
-                            className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            Hashnode
                         </a>
                     </div>
                 </div>
