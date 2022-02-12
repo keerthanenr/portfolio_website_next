@@ -19,6 +19,13 @@ const About = () => {
                         I am responsible for creating features used by a platform with over 40 billion AUM which provided leveraged finances to it’s clients through equity swaps. 
                         </p>
                     </div>
+                    <br></br>
+                    <a download="Curriculum Vitae Keerthanen Ravichandran" href="/Curriculum_Vitae_Keerthanen_Ravichandran.pdf">
+                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Download CV
+                        </button>
+                    </a>
+
                 </div>
                 <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10">
                     <Image
