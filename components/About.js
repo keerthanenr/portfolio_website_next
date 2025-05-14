@@ -14,10 +14,8 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                            I’m Keerthanen Ravichandran (he/him). I am Software Engineer at JPM Chase.
-                            I am currently looking for roles in SWE , Product Management or Venture Capital. I’ve spent majority of work career working in finance, notably within JPM,
-                            I worked in Rates Marketdata, Equities Marketdata and currently Nexus Platform.
-                            I am responsible for creating features used by a platform with over 40 billion AUM which provided leveraged finances to it’s clients through equity swaps.
+                        I'm Keerthanen Ravichandran (he/him), currently a Front Office UI Engineer at Trafigura, where you've been working since December 2024 developing a Commodities Trading platform. Before that, you spent over 5 years at JPMorgan Chase as an Associate in various roles including Front-end Developer for Execution Workspace and Python Developer for Rates/Equities Market Data.
+                        You've demonstrated your technical skills by winning the Norway AI Hackathon and being selected as a finalist in the prestigious a16z (Andreessen Horowitz) Hackathon. You also co-founded Alpha Tech Camp, an eLearning platform that delivered coding education to children aged 12-15, which was your first entrepreneurial venture.
                         </p>
                     </div>
                     <br></br>
